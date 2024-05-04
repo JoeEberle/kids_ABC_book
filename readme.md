@@ -1,12 +1,12 @@
 
-# Kids Abc Book - Solution for Kids Abc Book
-Solution for Kids Abc Book
+# Kids Abc Book - Solution for Kids ABC Book
+Solution for Kids ABC Book
 
 ![Image image_filename](code.png)
 
 Welcome to the solution **Kids Abc Book** - an example for your projects
 
-Solution for Kids Abc Book
+Solution for Kids ABC Book
 
 ![Image image_filename](sample.png)
 
@@ -38,4 +38,4 @@ To get started with the **Kids Abc Book** solution repository, follow these step
 ![Developer](developer.png)
 
 ![Brand](brand.png)
-    ## Deliverables or Figures![additional_image](letters.png)  <br>
+    ## Deliverables or Figures![additional_image](letters.png)  <br>![additional_image](solution_sign.png)  <br>![additional_image](solution_stacked_sign.png)  <br>
