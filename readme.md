@@ -48,5 +48,5 @@ To get started with the **Kids Abc Book** solution repository, follow these step
 ![Brand](brand.png)
     
 ## Deliverables or Figures
- ![additional_image](letters.png)  <br>![additional_image](solution_stacked_sign.png)  <br>
+ ![additional_image](letters.png)  <br>
     
