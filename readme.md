@@ -1,4 +1,6 @@
 
+![Image image_filename](solution_sign.png)
+
 # Kids Abc Book - Solution for Kids ABC Book
 Solution for Kids ABC Book
 
@@ -9,8 +11,6 @@ Welcome to the solution **Kids Abc Book** - an example for your projects
 Solution for Kids ABC Book
 
 ![Image image_filename](sample.png)
-
-![Image image_filename](solution_sign.png)
 
 ## Solution Features
 - Easy to understand and use  
