@@ -39,11 +39,8 @@ To get started with the **Kids Abc Book** solution repository, follow these step
  ![additional_image](letters.png)  <br>![additional_image](otter.png)  <br>![additional_image](penguin.png)  <br>
     
 
-## Github    
-## https://github.com/JoeEberle/ 
-
-## Email 
-## josepheberle@outlook.com 
+## Github    https://github.com/JoeEberle/ 
+## Email  josepheberle@outlook.com 
 
     
 ![Developer](developer.png)
