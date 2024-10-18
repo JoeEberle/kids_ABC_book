@@ -4,6 +4,9 @@ Welcome to the solution **Kids Abc Book** - an example for your projects
 2024-03-15 10:39:07,381 - INFO - START solution_temple Start Time = 2024-03-15 10:39:07
 ![Image image_filename](sample.png)
 ## Getting Started
+
+The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
+
 To get started with the **Kids Abc Book** solution repository, follow these steps:
 1. Clone the repository to your local machine.
 2. Install the required dependencies listed at the top of the notebook.
@@ -18,7 +21,7 @@ To get started with the **Kids Abc Book** solution repository, follow these step
 
 ## Notebook Features
 
-The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
+These Features are design to provide everything you need for **Knowledge Transfer** 
 
 - **Self Documenting** - Automatically identifes major steps in notebook 
 - **Self Testing** - Unit Testing for each function
