@@ -1,17 +1,8 @@
-
-![Image image_filename](solution_sign.png)
-
-# Kids Abc Book - 2024-03-15 10:39:07,381 - INFO - START solution_temple Start Time = 2024-03-15 10:39:07
-2024-03-15 10:39:07,381 - INFO - START solution_temple Start Time = 2024-03-15 10:39:07
-
-![Image image_filename](code.png)
-
+![Image image_filename](solution_sign.png)# Kids Abc Book - 2024-03-15 10:39:07,381 - INFO - START solution_temple Start Time = 2024-03-15 10:39:07![Image image_filename](code.png)
 Welcome to the solution **Kids Abc Book** - an example for your projects
 
 2024-03-15 10:39:07,381 - INFO - START solution_temple Start Time = 2024-03-15 10:39:07
-
 ![Image image_filename](sample.png)
-
 ## Getting Started
 To get started with the **Kids Abc Book** solution repository, follow these steps:
 1. Clone the repository to your local machine.
@@ -26,6 +17,9 @@ To get started with the **Kids Abc Book** solution repository, follow these step
 - Its Fast and Automated
 
 ## Notebook Features
+
+The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
+
 - **Self Documenting** - Automatically identifes major steps in notebook 
 - **Self Testing** - Unit Testing for each function
 - **Easily Configurable** - Easily modify with **config.INI** - keyname value pairs
@@ -35,13 +29,11 @@ To get started with the **Kids Abc Book** solution repository, follow these step
 - **Low Code** - or - No Code  - Most solutions are under 50 lines of code
 - **Educational** - Includes educational dialogue and background material
     
-## Deliverables or Figures
+## List of Figures
  ![additional_image](letters.png)  <br>![additional_image](otter.png)  <br>![additional_image](penguin.png)  <br>
     
 
-## Github    https://github.com/JoeEberle/ 
-## Email  josepheberle@outlook.com 
-
+## Github https://github.com/JoeEberle/ - Email  josepheberle@outlook.com 
     
 ![Developer](developer.png)
 
