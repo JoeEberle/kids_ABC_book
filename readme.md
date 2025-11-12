@@ -4,21 +4,11 @@
 
 ## 2024-03-15 10:39:07,381 - INFO - START solution_temple Start Time = 2024-03-15 10:39:07
 
-    
-![Solution](code.png)
-
-    
-
-Welcome to the solution **Kids Abc Book** - an example for your projects
+    ![Image image_filename](code.png)
+Welcome to the solution **Kids Abc Book** 
 
 2024-03-15 10:39:07,381 - INFO - START solution_temple Start Time = 2024-03-15 10:39:07
-
-![Solution](code.png)
-
-    
-![Solution](code.png)
-
-    
+![Image image_filename](code.png)![Image image_filename](sample.png)
 ## Getting Started
 
 The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
